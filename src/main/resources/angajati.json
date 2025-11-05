@@ -1,0 +1,32 @@
+[
+  {
+    "nume": "Ion Popescu",
+    "post": "mecanic",
+    "data_angajarii": [2021,5,10],
+    "salariul": 2200.0
+  },
+  {
+    "nume": "Maria Ionescu",
+    "post": "director tehnic",
+    "data_angajarii": [2024,5,15],
+    "salariul": 4800.0
+  },
+  {
+    "nume": "Andrei Georgescu",
+    "post": "sef echipa",
+    "data_angajarii": [2024,4,25],
+    "salariul": 3000.0
+  },
+  {
+    "nume": "Ana Marinescu",
+    "post": "asistent contabil",
+    "data_angajarii": [2023,7,1],
+    "salariul": 2600.0
+  },
+  {
+    "nume": "Elena Radu",
+    "post": "programator",
+    "data_angajarii": [2024,8,10],
+    "salariul": 2900.0
+  }
+]
