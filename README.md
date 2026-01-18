@@ -1,4 +1,4 @@
-# Laborator 6 – Programare Java (Stream API & Jackson)
+# Programare Java (Stream API & Jackson)
 
 ## 📖 Descriere
 
